@@ -24,15 +24,24 @@
 
 ### Задание 
 
+![branch1](https://github.com/IthnHuitn/Branching/blob/master/screens/branch1.png)
 
-![branch1](https://github.com/IthnHuitn/Branching/blob/screens/branch1.png)
-![branch2](https://github.com/IthnHuitn/Branching/blob/screens/branch2.png)
-![branch3](https://github.com/IthnHuitn/Branching/blob/screens/branch3.png)
-![branch4](https://github.com/IthnHuitn/Branching/blob/screens/branch4.png)
-![branch5](https://github.com/IthnHuitn/Branching/blob/screens/branch5.png)
-![branch6](https://github.com/IthnHuitn/Branching/blob/screens/branch6.png)
-![branch7](https://github.com/IthnHuitn/Branching/blob/screens/branch7.png)
-![branch8](https://github.com/IthnHuitn/Branching/blob/screens/branch8.png)
-![branch9](https://github.com/IthnHuitn/Branching/blob/screens/branch9.png)
-![branch10](https://github.com/IthnHuitn/Branching/blob/screens/branch10.png)
-![branch11](https://github.com/IthnHuitn/Branching/blob/screens/branch11.png)
+![branch2](https://github.com/IthnHuitn/Branching/blob/master/screens/branch2.png)
+
+![branch3](https://github.com/IthnHuitn/Branching/blob/master/screens/branch3.png)
+
+![branch4](https://github.com/IthnHuitn/Branching/blob/master/screens/branch4.png)
+
+![branch5](https://github.com/IthnHuitn/Branching/blob/master/screens/branch5.png)
+
+![branch6](https://github.com/IthnHuitn/Branching/blob/master/screens/branch6.png)
+
+![branch7](https://github.com/IthnHuitn/Branching/blob/master/screens/branch7.png)
+
+![branch8](https://github.com/IthnHuitn/Branching/blob/master/screens/branch8.png)
+
+![branch9](https://github.com/IthnHuitn/Branching/blob/master/screens/branch9.png)
+
+![branch10](https://github.com/IthnHuitn/Branching/blob/master/screens/branch10.png)
+
+![branch11](https://github.com/IthnHuitn/Branching/blob/master/screens/branch11.png)
